@@ -1,7 +1,8 @@
 # openjdk 8
 FROM openjdk:8-jdk-alpine
 # image maintainer
-LABEL maintainer="f.leeap1004@gmail.com"
+LABEL maintainer="f.leeap1004@gmail.comSS"
+
 # data directory
 # Add a volume to /tmp
 VOLUME /tmp
